@@ -2,6 +2,12 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Kelvin Muriithi",
   "description": "A project for learning about API by following the FreeCodeCamp API tutorial",
+  "keywords": [
+    "practicing",
+    "API's",
+    "at",
+    "FreeCodeCamp"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
